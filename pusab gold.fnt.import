@@ -1,0 +1,17 @@
+[remap]
+
+importer="font_data_bmfont"
+type="FontFile"
+uid="uid://dhmkdrxhnxsiq"
+path="res://.godot/imported/pusab gold.fnt-b4207edd1b12ae56069102b7c8cc84c6.fontdata"
+
+[deps]
+
+source_file="res://pusab gold.fnt"
+dest_files=["res://.godot/imported/pusab gold.fnt-b4207edd1b12ae56069102b7c8cc84c6.fontdata"]
+
+[params]
+
+fallbacks=[]
+compress=true
+scaling_mode=2
